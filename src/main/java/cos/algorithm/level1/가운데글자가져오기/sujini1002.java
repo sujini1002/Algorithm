@@ -18,3 +18,4 @@ public class sujini1002 {
 	}
 
 }
+//테스트 완료

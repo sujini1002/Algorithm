@@ -59,3 +59,4 @@ public class sujini1002 {
 	}
 
 }
+//테스트완료
