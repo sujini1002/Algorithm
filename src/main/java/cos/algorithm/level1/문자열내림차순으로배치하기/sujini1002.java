@@ -3,7 +3,7 @@ package cos.algorithm.level1.문자열내림차순으로배치하기;
 import java.util.Arrays;
 
 public class sujini1002 {
-
+	//참조
 	public static void main(String[] args) {
 		String a = "Zbcdefg";
 		String result = solution(a);
