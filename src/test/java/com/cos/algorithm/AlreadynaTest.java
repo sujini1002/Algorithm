@@ -17,5 +17,18 @@ public class AlreadynaTest {
 		String[] seoul = {"Jane", "Kim"};
 		Assert.assertEquals("김서방은 1에 있다", cos.algorithm.level1.서울에서김서방찾기.Alreadyna.Solution(seoul));
 	}
+	
+	@Test
+	public void findMiddleTest() {
+		String middle = "abcde";
+		Assert.assertEquals("c", cos.algorithm.level1.가운데글자가져오기.Alreadyna.FindMiddle(middle));
+	}
+	
+	@Test 
+	public void findSameNoTest() {
+		int[] arr = {1, 3, 2, 2, 2, 4, 4};
+		Object[] answer = {1, 3, 2, 4};
+		
+	}
 
 }
