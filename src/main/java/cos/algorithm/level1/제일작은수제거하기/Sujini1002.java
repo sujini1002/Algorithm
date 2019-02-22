@@ -25,7 +25,6 @@ public class Sujini1002 {
 			Arrays.sort(tmp);
 			
 			
-			System.out.println();
 			
 			int min = tmp[0];
 			
